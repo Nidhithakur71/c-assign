@@ -1,0 +1,13 @@
+
+1:- Fundamentals of Programming?
+
+A:- the basic concepts of programming are :
+
+  a: Variable Declaration
+  b: Basic Syntax
+  c: Data Type and Structures
+  d: Flow Control Structures (Conditionals and loops)
+  e: Functional Programming
+  f: Object-Oriented Programming
+  g: Debugging
+  h: IDEs and Coding Environments
